@@ -8,3 +8,5 @@ Vežba osnovnih komandi na GitHub-u.
 ### Zadaci
 - Napravimo novu granu za dodatne funkcionalnosti.
 - Pošaljimo pull request za svoje izmene.
+### New-features
+Grana dodata za novu funkcionalnost.
